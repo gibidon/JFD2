@@ -1,0 +1,3 @@
+text in new 7 in branch master
+
+some text added in branch feature3
